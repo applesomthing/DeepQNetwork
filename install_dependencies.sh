@@ -124,7 +124,7 @@ echo "Installing Lua-GD ... "
 mkdir $PREFIX/src
 cd $PREFIX/src
 rm -rf lua-gd
-git clone https://github.com/ittner/lua-gd.git
+git clone https://github.com/applesomthing/lua-gd.git
 cd lua-gd
 sed -i "s/LUABIN=lua5.1/LUABIN=..\/..\/bin\/luajit/" Makefile
 $PREFIX/bin/luarocks make
