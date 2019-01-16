@@ -13,6 +13,7 @@ sudo ./install_dependecies.sh
 ```
 
  # als alles is geinstalleerd 
+ kies dan of je met je CPU of je GPU gaat trainen
  ```
 ./train_gpu.sm smb
 ./train_cpu.sm smb
