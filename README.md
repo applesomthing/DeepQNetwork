@@ -9,7 +9,7 @@ Meer als 6 GB ram linux omgeving of een krachtige GPU
 sudo apt-get install git
 git clone https://github.com/applesomthing/DeepQNetwork.git
 cd DeepQNetwork
-sudo ./install_dependecies.sh
+sudo ./install_dependencies.sh
 ```
 
  # als alles is geinstalleerd 
